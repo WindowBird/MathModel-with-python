@@ -11,7 +11,8 @@
 -   [数学建模算法实现](https://github.com/WindowBird/MathModel-with-python/tree/e5efea19de5948718b1f9d19e014ec76c212fc73/1a%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%9B%BD%E8%B5%9B%E7%AE%97%E6%B3%95%E5%BA%93)
 - 🤔 竞赛经历
 -    [2022mothercupD题三等奖](https://github.com/WindowBird/MathModel-with-python/tree/d4b974008024290fa61f411da0abbe03b06d9963/2023%E5%B9%B4MathorCup%E9%AB%98%E6%A0%A1%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%8C%91%E6%88%98%E8%B5%9B%E8%B5%9B%E9%A2%98)
--    [2023数学建模国赛C题代码实现](https://github.com/WindowBird/MathModel-with-python/tree/main/2023%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1c%E9%A2%98)   💬 Ask me about ...
+-    [2023数学建模国赛C题代码实现](https://github.com/WindowBird/MathModel-with-python/tree/main/2023%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1c%E9%A2%98)
+- 💬 Ask me about ...
 - 📫 How to reach me: ...
 
 
